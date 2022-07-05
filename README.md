@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Talwadker</h1>
 <h3 align="center">A passionate full stack developer and student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-talwadker&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-talwadker" /> </p>
+<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="dinesh-talwadker" width="100" height="100"/>
 <br>
 
 - 🔭 I’m currently working on **AI ChatBot using TF to chat independently**
