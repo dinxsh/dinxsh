@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img width="250" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95206a1f2a9e20921044e1f3c3758bcae433516c1f4&rid=giphy.gif" width="100"/>
 </div>
 <br>
 <h1 align="center">Hi 👋, I'm Dinesh Talwadker</h1>
 <h3 align="center">A passionate full stack developer and student from India</h3>
 
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="dinesh-talwadker" width="100" height="100"/>
 <br>
 
 - 🔭 I’m currently working on **AI ChatBot using TF to chat independently**
