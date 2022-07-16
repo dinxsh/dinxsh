@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I love working on new technology and implementing them in my next projects**
 
-- 🐱‍💻 Visit my Portfolio Website - https://dinesh.somee.com/
+- 🐱‍💻 Visit my Portfolio Website - https://blazedev.herokuapp.com/
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
