@@ -4,7 +4,6 @@
 <br>
 <h1 align="center">Hi 👋, I'm Dinesh Talwadker</h1>
 <h3 align="center">A web dev and cs student from India</h3>
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=blaze-pvt)
@@ -27,8 +26,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img href="https://discord.gg/!Blaze#6946" src="https://skillicons.dev/icons?i=discord" />
+  <a href="https://discord.gg/!Blaze#6946">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 <br>
