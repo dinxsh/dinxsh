@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any open-source projects**
 
-- 📝 I regularly write articles on [https://dev.to/blazeee](https://dev.to/blazeee)
+- 📝 I regularly write articles on [here](https://dev.to/blazeee)
 
 - 💬 Ask me about **Frontend, Backend frameworks and OOP languages**
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I love working on new technology and implementing them in my next projects**
 
-- 🐱‍💻 Visit my Portfolio Website - https://dineshdev.herokuapp.com/
+- 🐱‍💻 Visit my Portfolio Website [here](https://dineshdev.herokuapp.com/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
