@@ -26,9 +26,12 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.gg/!Blaze#6946">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin" />
+  <a href="https://discord.gg/!Blaze#2800" tooltip="!blaze#2800">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+  <a href="https://www.linkedin.com/in/dinesh-talwadker/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
