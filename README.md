@@ -27,14 +27,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/!Blaze#6946">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin" />
   </a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,react,git,astro,bash,c,cs,discord,dotnet,express,heroku,jquery,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,python,nodejs,mongodb,netlify,nextjs,tailwind,ts,vercel,wordpress,react,git,astro,bash,c,cs,discord,dotnet,express,heroku,jquery,bash,bootstrap," />
   </a>
 </p>
 <br><br><br>
