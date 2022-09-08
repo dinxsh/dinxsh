@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Frontend, Backend frameworks and OOP languages**
 
-- 📫 How to reach me - <ul><a href = "mailto:dineshtalwadker@gmail.com">Send Email</a></ul>
+- 📫 How to reach me - <ul><a href = "mailto:dineshtalwadker@gmail.com">Mail me</a></ul>
                <ul>Discord - !blaze#2800 </ul>
 
 
