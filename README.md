@@ -18,7 +18,9 @@
 
 - 💬 Ask me about **Frontend, Backend frameworks and OOP languages**
 
-- 📫 How to reach me **blaze.mehh@gmail.com**
+- 📫 How to reach me - <ul><a href = "mailto:dineshtalwadker@gmail.com">Send Email</a></ul>
+               <ul>Discord - !blaze#2800 </ul>
+
 
 - ⚡ Fun fact **I love working on new technology and implementing them in my next projects**
 
