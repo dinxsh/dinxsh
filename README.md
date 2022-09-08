@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any open-source projects**
 
-- 📝 I regularly write articles on [here](https://dev.to/blazeee)
+- 📝 I regularly write articles [here](https://dev.to/blazeee)
 
 - 💬 Ask me about **Frontend, Backend frameworks and OOP languages**
 
