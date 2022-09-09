@@ -8,18 +8,18 @@
 
 ![](https://komarev.com/ghpvc/?username=blaze-pvt)
 
-- 🔭 I’m currently working on **AI ChatBot using TF to chat independently**
+- 🔭 I’m currently working on <a href="https://github.com/blaze-pvt/texuto">Texuto</a> and <a href="https://github.com/blaze-pvt/Illusio-Language">Illusio-Language</a>
 
 - 🌱 I’m currently learning **Web 3.0 and Blockchain Technology**
 
-- 👯 I’m looking to collaborate on **any open-source projects**
+- 👯 I’m looking to collaborate on **open-source projects**
 
 - 📝 I regularly write articles [here](https://dev.to/blazeee)
 
 - 💬 Ask me about **Frontend, Backend frameworks and OOP languages**
 
 - 📫 How to reach me - <ul><a href = "mailto:dineshtalwadker@gmail.com">Mail me</a></ul>
-               <ul>Discord - !blaze#2800 </ul>
+               <ul>Discord - !blaze#2800 </ul><br>
 
 
 - ⚡ Fun fact **I love working on new technology and implementing them in my next projects**
@@ -29,10 +29,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/!Blaze#2800" tooltip="!blaze#2800">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img href="https://discord.gg/!Blaze#2800" src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://www.linkedin.com/in/dinesh-talwadker/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img href="https://www.linkedin.com/in/dinesh-talwadker/" src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
 </p>
 <br>
