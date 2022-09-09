@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=blaze-pvt)
 
-- 🔭 I’m currently working on <a href="https://github.com/blaze-pvt/texuto">Texuto</a> and <a href="https://github.com/blaze-pvt/Illusio-Language">Illusio-Language</a>
+- 🔭 I’m currently working on [Texuto](https://github.com/texuto) and [Illusio](https://github.com/Illusio-language)
 
 - 🌱 I’m currently learning **Web 3.0 and Blockchain Technology**
 
