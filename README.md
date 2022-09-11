@@ -21,7 +21,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-dineshtalwadker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshtalwadker@gmail.com)](mailto:dineshtalwadker@gmail.com)<br>
 
 - 🐱‍💻 Visit my Portfolio Website [here](https://dineshdev.herokuapp.com/)
-<br>
+
+##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/!Blaze#2800" tooltip="!blaze#2800">
@@ -31,14 +33,18 @@
     <img href="https://www.linkedin.com/in/dinesh-talwadker/" src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
 </p>
-<br>
+
+##
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,jquery,html,css,python,nodejs,mongodb,netlify,nextjs,tailwind,ts,vercel,wordpress,react,git,astro,bash,c,cs,discord,dotnet,express,heroku,jquery,bash,bootstrap," />
   </a>
 </p>
-<br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaze-pvt&show_icons=true&locale=en&layout=compact" alt="dinesh-talwadker" /></p>
+
+##
+
+<br>
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaze-pvt&show_icons=true&theme=radical)
