@@ -10,21 +10,15 @@
 
 - 🔭 I’m currently working on [Texuto](https://github.com/texuto) and [Illusio](https://github.com/Illusio-language)
 
-- 🌱 I’m currently learning **Web 3.0 and Blockchain Technology**
-
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 📝 I regularly write articles [here](https://dev.to/blazeee)
-
-- 💬 Ask me about **Frontend, Backend frameworks and OOP languages**
 
 - 📫 How to reach me -<br>               
 [![Twitter Badge](https://img.shields.io/badge/-@talwadkerdinesh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/talwadkerdinesh)](https://twitter.com/talwadkerdinesh)
 [![Instagram Badge](https://img.shields.io/badge/-@blaze.ethh-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/blaze.ethh)](https://www.instagram.com/blaze.ethh) 
 [![Linkedin Badge](https://img.shields.io/badge/-dineshtalwadker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-talwadker/)](https://www.linkedin.com/in/dinesh-talwadker/)
 [![Gmail Badge](https://img.shields.io/badge/-dineshtalwadker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshtalwadker@gmail.com)](mailto:dineshtalwadker@gmail.com)<br>
-
-- ⚡ Fun fact **I love working on new technology and implementing them in my next projects**
 
 - 🐱‍💻 Visit my Portfolio Website [here](https://dineshdev.herokuapp.com/)
 <br>
