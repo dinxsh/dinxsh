@@ -2,7 +2,7 @@
   <img width="250" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95206a1f2a9e20921044e1f3c3758bcae433516c1f4&rid=giphy.gif" width="100"/>
 </div>
 <br>
-<h1 align="center">Hi 👋, I'm Dinesh Talwadker</h1>
+<h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A web dev and cs student from India</h3>
 <br>
 
