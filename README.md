@@ -6,7 +6,7 @@
 <h3 align="center">A web dev and cs student from India</h3>
 <br>
 
-![](https://komarev.com/ghpvc/?username=blaze-pvt)
+![](https://komarev.com/ghpvc/?username=dinxsh)
 
 - 🔭 I’m currently working on [Texuto](https://github.com/texuto) and [Illusio](https://github.com/Illusio-language)
 
@@ -47,4 +47,4 @@
 
 <br>
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaze-pvt&show_icons=true&theme=radical)
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinxsh&show_icons=true&theme=radical)
