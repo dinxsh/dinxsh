@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dinxsh)
 
-- 🔭 I’m currently working on [Texuto](https://github.com/texuto) and [Illusio](https://github.com/Illusio-language)
+- 🔭 I’m currently working on [Yeet UI](https://github.com/yeetui), [Texuto](https://github.com/texuto) and [Illusio](https://github.com/Illusio-language)
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
