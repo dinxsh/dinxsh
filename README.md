@@ -20,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dineshtalwadker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-talwadker/)](https://www.linkedin.com/in/dinesh-talwadker/)
 [![Gmail Badge](https://img.shields.io/badge/-dineshtalwadker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshtalwadker@gmail.com)](mailto:dineshtalwadker@gmail.com)<br>
 
-- 🐱‍💻 Visit my Portfolio Website [here]([https://dineshdev.herokuapp.com/](https://dinxsh.vercel.app/))
+- 🐱‍💻 Visit my Portfolio Website [here](https://dinxsh.vercel.app/)
 
 ##
 
