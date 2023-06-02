@@ -1,6 +1,6 @@
 <h1>Hey, I'm Dinesh!</h1>
 
-- Software Engineer specialised in web/app development. exploring devRel opportunities!
+- Software Engineer specialised in web development. exploring research opportunities!
 
 [![Linkedin Badge](https://img.shields.io/badge/-lets_connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supdinesh/)](https://www.linkedin.com/in/supdinesh/)
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshtalwadker@gmail.com)](mailto:dineshtalwadker@gmail.com)<br>
