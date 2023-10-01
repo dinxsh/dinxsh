@@ -10,7 +10,7 @@ Highschool senior with diverse internship and technical experience. Passionate a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,python,lua,nodejs,mongodb,netlify,nextjs,tailwind,ts,vercel,wordpress,react,astro,bash,c,cs,discord,dotnet,express,heroku,jquery,bash,bootstrap,docker,vim,kubernetes,git,arduino,atom,aws,azure,bash,babel,blender,cloudflare,deno,django,dotnet,elixir,emacs,express,fastapi,figma,firebase,flask,gcp,graphql,jenkins,linux,md,matlab,neovim,mysql,nestjs,perl,powershell" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,python,lua,nodejs,mongodb,netlify,nextjs,tailwind,ts,vercel,wordpress,react,astro,c,cs,discord,dotnet,heroku,jquery,bash,bootstrap,docker,vim,kubernetes,git,arduino,atom,aws,azure,babel,blender,cloudflare,deno,django,elixir,emacs,express,fastapi,figma,firebase,flask,gcp,graphql,jenkins,linux,md,matlab,neovim,mysql,nestjs,perl,powershell" />
   </a>
 </p>
 
