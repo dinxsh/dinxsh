@@ -18,4 +18,4 @@ I'm a university freshman studying cs with diverse technical experience. Passion
 
 <br>
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinxsh&show_icons=true&theme=radical)
+![Dinesh's GitHub stats](https://github-readme-stats-dinxsh.vercel.app/api?username=dinxsh&show_icons=true&theme=radical)
