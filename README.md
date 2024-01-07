@@ -21,4 +21,14 @@ I'm a university freshman studying cs with diverse technical experience. Passion
 ![Dinesh's GitHub stats](https://github-readme-stats-dinxsh.vercel.app/api?username=dinxsh&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 05 January 2024 - To: 06 January 2024
+
+Total Time: 7 mins
+
+JavaScript   2 mins          >>>>>>-------------------   25.43 %
+Other        0 secs          >>-----------------------   07.55 %
+```
+
 <!--END_SECTION:waka-->
