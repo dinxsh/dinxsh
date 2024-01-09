@@ -23,12 +23,15 @@ I'm a university freshman studying cs with diverse technical experience. Passion
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 January 2024 - To: 06 January 2024
+From: 05 January 2024 - To: 07 January 2024
 
-Total Time: 7 mins
+Total Time: 3 hrs 44 mins
 
-JavaScript   2 mins          >>>>>>-------------------   25.43 %
-Other        0 secs          >>-----------------------   07.55 %
+Astro        2 hrs 24 mins   >>>>>>>>>>>>>>>>---------   63.89 %
+TypeScript   49 mins         >>>>>--------------------   21.76 %
+Markdown     23 mins         >>>----------------------   10.28 %
+JavaScript   2 mins          -------------------------   01.26 %
+Other        0 secs          -------------------------   00.28 %
 ```
 
 <!--END_SECTION:waka-->
