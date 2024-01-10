@@ -20,7 +20,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: dinxsh/dinxsh # optional
           ### content
-          SHOW_TITLE: true # optional
+          SHOW_TITLE: false # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
@@ -38,5 +38,5 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: dinxsh # optional
-          AUTHOR_EMAIL: dineshtalwadker@gmail.com # optional
+          AUTHOR_EMAIL: talwadkerdinesh@gmail.com # optional
           # you can populate email-id with secretes instead
