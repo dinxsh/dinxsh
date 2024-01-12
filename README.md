@@ -1,6 +1,10 @@
 <h1>Hey, I'm Dinesh! 👋🏻</h1>
 
-I'm a university freshman studying cs with diverse technical experience. Passionate about creating positive change through innovative solutions. Proven ability to lead and inspire teams and driving impactful projects. Skilled in building scalable websites, cross-platform apps, API's, systems & more. Committed to making a difference and improve communities.
+CS freshman with diverse technical experience working with startups, agencies, non profits and more (3 yoe). Passionate about building software products that scale. Proven ability to lead teams to build impactful projects. 
+
+Proficient in Full Stack Web Development (react nextjs nodejs express) App development (react native java android), Devops (jenkins ci/cd github docker) and using Team Management tools (notion jira). Committed to making a difference and improving communities through social entrepreneurship.
+
+want to collaborate on a project or just have a friendly talk? shoot a dm :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-lets_connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshtalwadker/)](https://www.linkedin.com/in/dineshtalwadker/)
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinesh@codrion.tech)](mailto:dinesh@codrion.tech)<br>
@@ -18,7 +22,6 @@ I'm a university freshman studying cs with diverse technical experience. Passion
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dinxsh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Dinesh's GitHub stats](https://github-readme-stats-dinxsh.vercel.app/api?username=dinxsh&show_icons=true&theme=radical) 
 
 <!--START_SECTION:waka-->
