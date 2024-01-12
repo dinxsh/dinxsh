@@ -24,14 +24,15 @@ I'm a university freshman studying cs with diverse technical experience. Passion
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 12 hrs 49 mins
+Total Time: 14 hrs 20 mins
 
-JavaScript   6 hrs 41 mins   >>>>>>>>>>>>>------------   51.78 %
-Astro        3 hrs 28 mins   >>>>>>>------------------   26.98 %
-TypeScript   1 hr 25 mins    >>>----------------------   11.10 %
-Python       24 mins         >------------------------   03.19 %
-Markdown     23 mins         >------------------------   02.99 %
-Other        4 mins          -------------------------   00.61 %
+JavaScript   8 hrs 6 mins    >>>>>>>>>>>>>>-----------   56.55 %
+Astro        3 hrs 28 mins   >>>>>>-------------------   24.29 %
+TypeScript   1 hr 26 mins    >>>----------------------   10.02 %
+JSON         25 mins         >------------------------   03.02 %
+Python       24 mins         >------------------------   02.87 %
+Markdown     23 mins         >------------------------   02.70 %
+Other        4 mins          -------------------------   00.55 %
 ```
 
 <!--END_SECTION:waka-->
