@@ -18,7 +18,8 @@ I'm a university freshman studying cs with diverse technical experience. Passion
 
 <br>
 
-![Dinesh's GitHub stats](https://github-readme-stats-dinxsh.vercel.app/api?username=dinxsh&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dinxsh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Dinesh's GitHub stats](https://github-readme-stats-dinxsh.vercel.app/api?username=dinxsh&show_icons=true&theme=radical) 
 
 <!--START_SECTION:waka-->
 
@@ -34,3 +35,4 @@ Other        4 mins          -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
+
