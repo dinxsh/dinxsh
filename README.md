@@ -7,7 +7,7 @@ Proficient in Full Stack Web Development (react nextjs nodejs express) App devel
 want to collaborate on a project or just have a friendly talk? shoot a dm :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-lets_connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshtalwadker/)](https://www.linkedin.com/in/dineshtalwadker/)
-[![Gmail Badge](https://img.shields.io/badge/-mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinesh@codrion.tech)](mailto:dinesh@codrion.tech)<br>
+[![Gmail Badge](https://img.shields.io/badge/-mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinesh@codrion.tech)](mailto:dineshtalwadker@gmail.com)<br>
 
 ![](https://komarev.com/ghpvc/?username=dinxsh)
 
