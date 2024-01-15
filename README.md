@@ -14,7 +14,7 @@ want to collaborate on a project or just have a friendly talk? shoot a dm :)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,python,lua,nodejs,mongodb,netlify,nextjs,tailwind,ts,vercel,wordpress,react,astro,c,cs,discord,dotnet,heroku,jquery,bash,bootstrap,docker,vim,kubernetes,git,arduino,atom,aws,azure,babel,blender,cloudflare,deno,django,elixir,emacs,express,fastapi,figma,firebase,flask,gcp,graphql,jenkins,linux,md,matlab,neovim,mysql,nestjs,perl,powershell" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,python,lua,nodejs,mongodb,netlify,nextjs,tailwind,ts,vercel,wordpress,react,astro,c,cs,discord,dotnet,heroku,jquery,bash,bootstrap,docker,vim,kubernetes,git,arduino,atom,aws,azure,babel,blender,cloudflare,deno,django,elixir,emacs,express,fastapi,figma,firebase,flask,gcp,graphql,jenkins,linux,md,matlab,neovim,mysql,nestjs,perl,powershell,go,scala,latex,postman,raspberrypi,pytorch,sqlite,terraform,php,bun" />
   </a>
 </p>
 
