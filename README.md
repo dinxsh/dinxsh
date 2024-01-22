@@ -27,14 +27,14 @@ want to collaborate on a project or just have a friendly talk? shoot a dm :)
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 41 hrs 59 mins
+Total Time: 42 hrs 37 mins
 
-JavaScript   31 hrs 17 mins  >>>>>>>>>>>>>>>>>>>------   74.52 %
-Astro        6 hrs 12 mins   >>>>---------------------   14.79 %
-TypeScript   1 hr 51 mins    >------------------------   04.43 %
-Markdown     1 hr 8 mins     >------------------------   02.73 %
-JSON         50 mins         >------------------------   02.01 %
-Python       24 mins         -------------------------   00.98 %
+JavaScript   31 hrs 54 mins  >>>>>>>>>>>>>>>>>>>------   74.87 %
+Astro        6 hrs 13 mins   >>>>---------------------   14.59 %
+TypeScript   1 hr 51 mins    >------------------------   04.36 %
+Markdown     1 hr 8 mins     >------------------------   02.69 %
+JSON         50 mins         -------------------------   01.98 %
+Python       24 mins         -------------------------   00.97 %
 C++          9 mins          -------------------------   00.36 %
 Other        4 mins          -------------------------   00.19 %
 ```
