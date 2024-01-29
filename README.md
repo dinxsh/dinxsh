@@ -39,19 +39,20 @@ For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
   ![Dinesh's GitHub stats](https://github-readme-stats-dinxsh.vercel.app/api?username=dinxsh&show_icons=true&theme=radical) 
 
   <!--START_SECTION:waka-->
-  
-  ```rust
-  Total Time: 55 hrs 4 mins
-  
-  JavaScript   42 hrs 32 mins  >>>>>>>>>>>>>>>>>>>------   77.23 %
-  Astro        6 hrs 13 mins   >>>----------------------   11.29 %
-  JSON         2 hrs 34 mins   >------------------------   04.67 %
-  TypeScript   1 hr 51 mins    >------------------------   03.38 %
-  Markdown     1 hr 8 mins     >------------------------   02.08 %
-  Python       24 mins         -------------------------   00.75 %
-  C++          9 mins          -------------------------   00.27 %
-  Other        4 mins          -------------------------   00.14 %
-  ```
-  
-  <!--END_SECTION:waka-->
+
+```rust
+Total Time: 58 hrs 27 mins
+
+JavaScript   43 hrs 3 mins   >>>>>>>>>>>>>>>>>>-------   73.65 %
+Astro        9 hrs           >>>>---------------------   15.40 %
+JSON         2 hrs 34 mins   >------------------------   04.40 %
+TypeScript   1 hr 53 mins    >------------------------   03.23 %
+Markdown     1 hr 8 mins     -------------------------   01.96 %
+Python       24 mins         -------------------------   00.70 %
+C++          9 mins          -------------------------   00.26 %
+XML          6 mins          -------------------------   00.19 %
+Other        4 mins          -------------------------   00.14 %
+```
+
+<!--END_SECTION:waka-->
 </details>
