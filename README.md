@@ -18,8 +18,8 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 ```
 
 ## Projects 🎯
-- building an personalised ai travel app @ [wanderlust](https://mywanderlust.app)
-- developing an cross platform international realtime shipping app @ [delemate](https://delemate.com)
+- building a personalised ai travel app @ [wanderlust](https://mywanderlust.app)
+- developing a cross-platform international realtime shipping app @ [delemate](https://delemate.com)
 - working on a platform connecting esports teams & communities @ [sanity esports](https://sanityesports.live)
 
 ## Volunteering 🙋🏽‍♂️
