@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
 ![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/3_May_2005-c70000)
 
-
 ```Javascript
 - My Skills / Stack
 Languages: Typescript, Java and Python
@@ -32,6 +31,7 @@ For a quick response, DM me on [dinxsh(discord)](https://discord.com/users/98910
 
 For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
 
+[portfolio](https://dinxsh.xyz/) • [mail](mailto:dineshtalwadker@gmail.com) • [linkedin](https://www.linkedin.com/in/dineshtalwadker/) • [resume](https://drive.google.com/file/d/18W0iFax5P2nyzDMFumV7i_YraR03PRXf/view?usp=sharing) • [youtube](https://www.youtube.com/@dineshtalwadker)
 
 <details>
   <summary>Stats</summary> <br>
