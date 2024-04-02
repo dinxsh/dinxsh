@@ -18,17 +18,17 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 ```
 
 ## Projects 🎯
-- personalised ai travel app @ [wanderlust](https://mywanderlust.app)
-- international realtime shipping app @ [delemate](https://delemate.com)
-- platform connecting esports teams & communities @ [sanity esports](https://sanityesports.live)
+- personalised travel companion app @ [wanderlust](https://mywanderlust.app)
+- international & local shipping made easier @ [delemate](https://delemate.com)
+- automated tournament hosting connecting esports teams & communities @ [sanity esports](https://sanityesports.live)
 
 ## Volunteering 🙋🏽‍♂️
-- building an app to teach coding in regional languages for free with a community of 500+ developers/designers @ [codrion](https://x.com/dineshcodes)
-- empowering astronomy with courses, journals, workshops on our website @ [astronomy made easy](https://astronomymadeeasy.vercel.app)
+- empowering astronomy with courses, journals, workshops @ [astronomy made easy](https://astronomymadeeasy.vercel.app)
+- coding in regional languages for free with a community of 500+ developers/designers @ [codrion](https://x.com/joincodrion)
 
 ## Contact 📬
 
-For a quick response, DM me on [X/Twitter](https://x.com/dineshcodes) or [dinxsh(discord)](https://discord.com/users/989106479699210310)
+For a quick response, DM me on [dinxsh(discord)](https://discord.com/users/989106479699210310) or [X/Twitter](https://x.com/dineshcodes)
 
 For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
 
