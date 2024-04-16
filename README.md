@@ -23,7 +23,7 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 
 ## Volunteering 🙋🏽‍♂️
 - empowering astronomy with courses, journals, workshops @ [astronomy made easy](https://astronomymadeeasy.vercel.app)
-- coding in regional languages for free with a community of 500+ developers/designers @ [codrion](https://x.com/joincodrion)
+- coding in regional languages for free with a community of 500+ developers/designers @ [codrion](https://x.com/codrion)
 
 ## Contact 📬
 
