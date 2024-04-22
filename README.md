@@ -43,7 +43,7 @@ For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
 ```rust
 Total Time: 328 hrs 25 mins
 
-JavaScript        258 hrs 50 mins >>>>>>>>>>>>>>>>>>>>-----   78.82 %
+JavaScript        258 hrs 51 mins >>>>>>>>>>>>>>>>>>>>-----   78.82 %
 Astro             22 hrs 44 mins  >>-----------------------   06.92 %
 TypeScript        14 hrs 41 mins  >------------------------   04.47 %
 JSON              14 hrs 36 mins  >------------------------   04.45 %
