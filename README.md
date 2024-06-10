@@ -1,3 +1,6 @@
+### hey, im dinesh 🙋🏽‍♂️
+###### CS freshman with diverse technical experience working with startups, agencies, non profits and communities for 3+ years. Passionate about building software that scales with proven ability to lead teams to build impactful projects. 
+
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
 ![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/3_May_2005-c70000)
 
@@ -41,18 +44,18 @@ For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
   <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 422 hrs 5 mins
+Total Time: 418 hrs 55 mins
 
-JavaScript        291 hrs 5 mins  >>>>>>>>>>>>>>>>>--------   68.97 %
-Python            38 hrs 39 mins  >>-----------------------   09.16 %
-Astro             27 hrs 9 mins   >>-----------------------   06.44 %
-JSON              18 hrs 42 mins  >------------------------   04.43 %
-TypeScript        15 hrs 59 mins  >------------------------   03.79 %
-Bash              6 hrs 55 mins   -------------------------   01.64 %
-Markdown          6 hrs 9 mins    -------------------------   01.46 %
-EJS               5 hrs 34 mins   -------------------------   01.32 %
-HTML              4 hrs 20 mins   -------------------------   01.03 %
-Text              1 hr 39 mins    -------------------------   00.39 %
+JavaScript        289 hrs 8 mins  >>>>>>>>>>>>>>>>>--------   69.02 %
+Python            37 hrs 50 mins  >>-----------------------   09.03 %
+Astro             27 hrs 9 mins   >>-----------------------   06.48 %
+JSON              18 hrs 36 mins  >------------------------   04.44 %
+TypeScript        15 hrs 59 mins  >------------------------   03.82 %
+Bash              6 hrs 38 mins   -------------------------   01.58 %
+Markdown          6 hrs 9 mins    -------------------------   01.47 %
+EJS               5 hrs 34 mins   -------------------------   01.33 %
+HTML              4 hrs 20 mins   -------------------------   01.04 %
+Text              1 hr 39 mins    -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
