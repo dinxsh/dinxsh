@@ -6,8 +6,8 @@ A computer science student passionate about building things that live on the web
 
 ```Javascript
 - My Skills / Stack
-Languages: Typescript, Java and Python
-Frontend: React, Next.js, Astro, Svelte, Remix and Astro
+Languages: Typescript, Java, CSharp and Python
+Frontend: React, Next.js, Svelte, Remix and Astro
 Backend: Node.js, Express, Redis Database, Django, Flask and .NET
 App: React Native and Java
 
