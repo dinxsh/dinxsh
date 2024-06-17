@@ -1,5 +1,5 @@
-### hey, im dinesh 🙋🏽‍♂️
-##### CS student with diverse technical experience working with startups, agencies, non profits and communities. Passionate about building software that scales with proven ability to lead teams to build impactful projects. 
+## hey, im dinesh 🙋🏽‍♂️
+A computer science student passionate about building things that live on the web and the app store. 
 
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
 ![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/3_May_2005-c70000)
