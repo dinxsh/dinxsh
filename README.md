@@ -34,7 +34,7 @@ For a quick response, DM me on [dinxsh(discord)](https://discord.com/users/98910
 
 For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
 
-[portfolio](https://dinxsh.xyz/) • [mail](mailto:dineshtalwadker@gmail.com) • [linkedin](https://www.linkedin.com/in/dineshtalwadker/) • [resume](https://drive.google.com/file/d/18W0iFax5P2nyzDMFumV7i_YraR03PRXf/view?usp=sharing) • [youtube](https://www.youtube.com/@dineshtalwadker)
+[portfolio](https://dinxsh.xyz/) • [linkedin](https://www.linkedin.com/in/dineshtalwadker/) • [mail](mailto:dineshtalwadker@gmail.com) • [resume](https://drive.google.com/file/d/1ng7R6eHv-sydfq_Z7DNZPVXRev78zzKR/view?usp=sharing) • [youtube](https://www.youtube.com/@dineshtalwadker)
 
 <details>
   <summary>Stats</summary> <br>
