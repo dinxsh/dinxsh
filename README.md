@@ -2,7 +2,7 @@
 A computer science student passionate about building things that live on the web and the app store. 
 
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
-![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/3_May_2005-c70000)
+![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469)
 
 ```Javascript
 - My Skills / Stack
