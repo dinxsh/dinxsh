@@ -25,7 +25,7 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 - [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/)  - an wiki & community for astronomy enthusiasts
 - [SoundScape, Real Time Sound Visualizer](https://github.com/Soumya-Kushwaha/SoundScape/) - mentored & code reviewed over 50+ pull requests and issues
 - [NestONDC, Eccomerce Website](https://delemate.com) - mentored & code reviewed over 20+ pull requests and issues
-- [Sanity Esports, Tournament Hosting Platform](https://sanityesport.live) - led and reviewed 20-person team, maintainers & contributors
+- [Sanity Esports, Tournament Hosting Platform](https://sanityesport.live) - led & code reviewed 20-person core team, maintainers & contributors
 
 ## Contact 📬
 
