@@ -35,7 +35,7 @@ For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
 
 ## Stats 📈
 
-| Overview | Follow up Issues & PRs |
+| Overview | Card |
 |:--------:|:-------------------------:|
 | ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Dinesh's GitHub stats](https://github-readme-stats-dinxsh.vercel.app/api?username=dinxsh&show_icons=true&theme=radical) |
 
