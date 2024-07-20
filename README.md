@@ -20,12 +20,12 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 ```
 
 ## Projects 🎯
-- [Delemate](https://delemate.com) - an app for travellers to earn during their travels
+- [Delemate](https://delemate.com) - 🧳 an app for travellers to earn during their travels 
 - [DataCrypt](https://mywanderlust.app) - 🔐 cryptography library / web platform (30+ algorithms)
-- [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/)  - an wiki & community for astronomy enthusiasts
-- [SoundScape, Real Time Sound Visualizer](https://github.com/Soumya-Kushwaha/SoundScape/) - mentored & code reviewed over 50+ pull requests and issues
-- [NestONDC, Eccomerce Website](https://delemate.com) - mentored & code reviewed over 20+ pull requests and issues
-- [Sanity Esports, Tournament Hosting Platform](https://sanityesport.live) - led & code reviewed 20-person core team, maintainers & contributors
+- [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) - 🛰️ an wiki & community for astronomy enthusiasts 
+- [SoundScape, Real Time Sound Visualizer](https://github.com/Soumya-Kushwaha/SoundScape/) - 🔊 mentored & code reviewed over 50+ pull requests and issues 
+- [NestONDC, Eccomerce Website](https://delemate.com) - 🛒 mentored & code reviewed over 20+ pull requests and issues
+- [Sanity Esports, Tournament Hosting Platform](https://sanityesport.live) - 🕹️ led & code reviewed 20-person core team, maintainers & contributors 
 
 ## Contact 📬
 
