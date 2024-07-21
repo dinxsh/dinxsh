@@ -21,7 +21,7 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 
 ## Projects 🎯
 - [Delemate](https://delemate.com) - 🧳 an app for travellers to earn during their travels 
-- [DataCrypt](https://dcrpyt.vercel.app) - 🔐 cryptography library / web platform (30+ algorithms)
+- [DataCrypt](https://dcrypt.vercel.app/) - 🔐 cryptography library / web platform (30+ algorithms)
 - [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) - 🛰️ an wiki & community for astronomy enthusiasts 
 - [SoundScape, Real Time Sound Visualizer](https://github.com/Soumya-Kushwaha/SoundScape/) - 🔊 mentored & code reviewed over 50+ pull requests and issues 
 - [NestONDC, Eccomerce Website](https://delemate.com) - 🛒 mentored & code reviewed over 30+ pull requests and issues
