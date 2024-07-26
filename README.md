@@ -4,11 +4,11 @@ A computer science student passionate about building highly performant & scalabl
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
 ![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469)
 
-```Javascript
+```javascript
 - My Skills / Stack
 Languages: Typescript, Java, C# and Python
-Frontend: React, Next.js, Svelte, Remix and Astro
-Backend: Node.js, Express, Redis Database, Django, Flask and .NET
+Frontend: React, Nextjs, Svelte, Remix and Astro
+Backend: Nodejs, Express, Redis Database, Django, Flask and Dotnet
 App: React Native and Java
 
 - Other Skills
@@ -20,12 +20,12 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 ```
 
 ## Projects 🎯
-- [Delemate](https://delemate.com) - 🧳 an app for travellers to earn during their travels 
-- [DataCrypt](https://dcrypt.vercel.app/) - 🔐 cryptography library / web platform (30+ algorithms)
-- [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) - 🛰️ an wiki & community for astronomy enthusiasts 
-- [SoundScape, Real Time Sound Visualizer](https://github.com/Soumya-Kushwaha/SoundScape/) - 🔊 mentored & code reviewed over 50+ pull requests and issues 
-- [NestONDC, Eccomerce Website](https://delemate.com) - 🛒 mentored & code reviewed over 30+ pull requests and issues
-- [Sanity Esports, Tournament Hosting Platform](https://sanityesport.live) - 🕹️ led & code reviewed 40-person core team, maintainers & contributors 
+- [Delemate](https://delemate.com) 🧳 an app for travellers to earn during their travels 
+- [DataCrypt](https://dcrypt.vercel.app/) 🔐 cryptography library / web platform (30+ algorithms)
+- [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) 🛰️ an wiki & community for astronomy enthusiasts 
+- [SoundScape, Real Time Sound Visualizer](https://github.com/Soumya-Kushwaha/SoundScape/) 🔊 mentored & code reviewed over 50+ pull requests and issues 
+- [NestONDC, Eccomerce Website](https://delemate.com) 🛒 mentored & code reviewed over 30+ pull requests and issues
+- [Sanity Esports, Tournament Hosting Platform](https://sanityesport.live) 🕹️ led & code reviewed 40-person core team, maintainers & contributors 
 
 ## Contact 📬
 
