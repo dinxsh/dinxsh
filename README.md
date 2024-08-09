@@ -22,7 +22,7 @@ Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
 ## Projects 🎯
 - 🧳 [Delemate](https://delemate.com) an app for travellers to earn during their travels built in ``react-native`` and ``expo``
 - 🕹️ [Sanity Esports](https://sanityesport.live) led & code reviewed 20-person maintainers & contributors using ``nextjs``
-- 🧑🏽‍💻 [GSSOC](https://github.com/GSSOC) mentored & code reviewed over 100+ pull requests and issues using ``python`` & ``javascript``
+- 🧑🏽‍💻 [GSSOC](https://github.com/GSSOC) mentored & code reviewed over 100+ pull requests and issues in primarily ``python`` & ``javascript``
 - 🔐 [DataCrypt](https://dcrypt.vercel.app/) cryptography library / web platform (30+ algorithms) using ``MERN``
 - 🛰️ [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) an wiki & community for astronomy enthusiasts using ``astro``
 
