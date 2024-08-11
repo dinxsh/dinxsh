@@ -43,14 +43,14 @@ For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 459 hrs 13 mins
+Total Time: 460 hrs 10 mins
 
-JavaScript        305 hrs 6 mins  >>>>>>>>>>>>>>>>>--------   66.44 %
-Python            50 hrs 14 mins  >>>----------------------   10.94 %
-Astro             29 hrs 35 mins  >>-----------------------   06.44 %
-JSON              19 hrs 40 mins  >------------------------   04.29 %
-TypeScript        19 hrs 31 mins  >------------------------   04.25 %
-Bash              7 hrs 3 mins    -------------------------   01.54 %
+JavaScript        306 hrs 3 mins  >>>>>>>>>>>>>>>>>--------   66.51 %
+Python            50 hrs 14 mins  >>>----------------------   10.92 %
+Astro             29 hrs 35 mins  >>-----------------------   06.43 %
+JSON              19 hrs 40 mins  >------------------------   04.28 %
+TypeScript        19 hrs 31 mins  >------------------------   04.24 %
+Bash              7 hrs 3 mins    -------------------------   01.53 %
 HTML              6 hrs 45 mins   -------------------------   01.47 %
 EJS               6 hrs 25 mins   -------------------------   01.40 %
 Markdown          6 hrs 16 mins   -------------------------   01.37 %
