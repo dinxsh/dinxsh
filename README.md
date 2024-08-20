@@ -16,17 +16,11 @@ App Dev: React Native and Java
 ```
 
 ## Projects 🎯
-- 🧳 [Delemate](https://delemate.com) an app for travellers to earn during their travels built in ``react-native`` and ``expo``
-- 🕹️ [Sanity Esports](https://sanityesport.live) led & code reviewed 20-person maintainers & contributors using ``nextjs``
-- 🧑🏽‍💻 [GSSOC](https://github.com/GSSOC) mentored & code reviewed over 100+ pull requests and issues in primarily ``python`` & ``javascript``
+- 🧳 [Delemate](https://delemate.com) an app for travellers to earn during their travels built-in ``react-native`` and ``expo``
+- 🕹️ [Sanity Esports](https://sanityesport.live) led a 10 person team to build a tournament management platform using ``nextjs``
+- 🧑🏽‍💻 [GSSOC](https://github.com/GSSOC) mentored & code reviewed over 100+ pull requests & issues in primarily ``python`` & ``javascript`` repos
 - 🔐 [DataCrypt](https://dcrypt.vercel.app/) cryptography library / web platform (30+ algorithms) using ``MERN``
 - 🛰️ [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) an wiki & community for astronomy enthusiasts using ``astro``
-
-## Contact 📬
-
-For a quick response, DM me on [dinxsh(discord)](https://discord.com/users/989106479699210310) or [X/Twitter](https://x.com/dineshcodes)
-
-For professional inquiries, reach out via email at ``dineshtalwadker@gmail.com``
 
 ## Stats 📈
 
@@ -55,3 +49,5 @@ Text              2 hrs 12 mins   -------------------------   00.46 %
 
 <!--END_SECTION:waka-->
 </details>
+
+<sub>most active on [dinxsh (Discord)](https://discord.com/users/989106479699210310) or [X/Twitter](https://x.com/dineshcodes)</sub>
