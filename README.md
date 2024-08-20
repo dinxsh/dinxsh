@@ -6,17 +6,13 @@ A computer science student passionate about building highly performant & scalabl
 
 ```javascript
 - My Skills / Stack
-Languages: Typescript, Java, C# and Python
-Frontend: React, Nextjs, Svelte, Remix and Astro
-Backend: Nodejs, Express, Redis Database, Django, Flask and Dotnet
-App: React Native and Java
+Languages: JS/TS, Java, C#, Python
+Frontend: React, Angular, Nextjs, Svelte, Remix and Astro
+Backend: Nodejs, Express, Django, Flask and Dotnet
+App Dev: React Native and Java
 
-- Other Skills
-Templating Langs: html, htmx, pug, handlebars.js
-
-- Learning: Golang, Tensorflow, Rust, Java and Web3
-- Tools / Technologies: Docker, Figma, Planetscale, Storybook, Brackets,
-Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
+- Tools / Technologies: Docker, Figma, Storybook, Mongodb Atlas, Upstash, Tunnel
+- Hosting - Supabase, DigitalOcean, Vercel, Azure, AWS, Firebase, Planetscale,
 ```
 
 ## Projects 🎯
