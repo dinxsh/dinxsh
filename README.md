@@ -2,7 +2,7 @@
 A computer science student passionate about building highly performant & scalable software 
 
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
-![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469)
+![status](https://img.shields.io/badge/Open_To_Work-c70000) ![Operating Systems](https://img.shields.io/badge/OS-Windows-253469) [![Linkedin Badge](https://img.shields.io/badge/-dinesh%20talwadker-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dineshtalwadker/ "Connect on LinkedIn") <a href="https://twitter.com/dineshcodes"> <img src="https://img.shields.io/twitter/follow/dineshcodes?style=social"> </a>
 
 ```javascript
 - My Skills / Stack
