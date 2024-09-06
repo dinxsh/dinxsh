@@ -33,4 +33,4 @@ App Dev: React Native and Java
 
 </details>
 
-<sub>most active on [dinxsh (Discord)](https://discord.com/users/989106479699210310) or [X/Twitter](https://x.com/dineshcodes)</sub>
+<sub>most active on [Discord](https://discord.com/users/989106479699210310) or [X/Twitter](https://x.com/dineshcodes)</sub>
