@@ -6,18 +6,18 @@ A computer science student passionate about building highly performant & scalabl
 
 ```javascript
 - My Skills / Stack
-Languages: JS/TS, Java, C#, Python
-Frontend: React, Angular, Nextjs, Svelte, Remix and Astro
-Backend: Nodejs, Express, Django, Flask and Dotnet
-App Dev: React Native and Java
+Languages: Javascript/Typescript, CSharp, Python
+Frontend: React, Angular, Nextjs, Svelte, Remix & Astro
+Backend: Nodejs, Express, Django, Flask & DotNet
+App Dev: React Native & Expo
 
 - Tools / Technologies: Docker, Figma, Storybook, Mongodb Atlas, Upstash, Tunnel
-- Hosting - Supabase, DigitalOcean, Vercel, Azure, AWS, Firebase, Planetscale,
+- Hosting - Supabase, DigitalOcean, Vercel, Azure, AWS, Firebase, Planetscale
 ```
 
 ## Projects 🎯
 - 🧳 [Delemate](https://delemate.com) an app for travellers to earn during their travels built-in ``react-native`` and ``expo``
-- 🕹️ [Sanity Esports](https://sanityesport.live) led a 10 person team to build a tournament management platform using ``nextjs``
+- 🕹️ [Sanity Esports](https://sanityesport.live) led teams to build a tournament management platform using ``nextjs``
 - 🧑🏽‍💻 [GSSOC](https://github.com/GSSOC) mentored & code reviewed over 100+ pull requests & issues in primarily ``python`` & ``javascript`` repos
 - 🔐 [DataCrypt](https://dcrypt.vercel.app/) cryptography library / web platform (30+ algorithms) using ``MERN``
 - 🛰️ [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) an wiki & community for astronomy enthusiasts using ``astro``
