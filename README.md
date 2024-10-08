@@ -6,7 +6,7 @@ A computer science student passionate about building highly performant & scalabl
 
 ```javascript
 - My Skills / Stack
-Languages: Javascript/Typescript, CSharp, Python
+Languages: Javascript/Typescript, GoLang, CSharp, Python
 Frontend: React, Angular, Nextjs, Svelte, Remix & Astro
 Backend: Nodejs, Express, Django, Flask & DotNet
 App Dev: React Native & Expo
