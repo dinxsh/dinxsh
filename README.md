@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
-### projects 
-- ##### [monetize travels on the go](https://delemate.com) 
+
+#### building ~hexastreams.com, mentoring contributors as core team at @girlscript & freelancing
+
+#### projects 🖱️
+- ##### [monetize travels on the go @ delemate.com](https://delemate.com) 
 - ##### [a fitness, meal planning/logging & workout routines app](https://github.com/dinxsh/aarogya) 
 - ##### [hosting gaming esports tournaments for organizations & universities](https://sanityesports.live/)
 
