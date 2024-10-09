@@ -1,29 +1,12 @@
-## hey, i am dinesh 🙋🏽‍♂️
-A computer science student passionate about building highly performant & scalable software 
-
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
-![status](https://img.shields.io/badge/Open_To_Work-c70000) [![Linkedin Badge](https://img.shields.io/badge/-dinesh%20talwadker-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dineshtalwadker/ "Connect on LinkedIn") <a href="https://twitter.com/dineshcodes"> <img src="https://img.shields.io/twitter/follow/dineshcodes?style=social"> </a>
+### projects 
+- ##### [monetize travels on the go](https://delemate.com) 
+- ##### [a fitness, meal planning/logging & workout routines app](https://github.com/dinxsh/aarogya) 
+- ##### [hosting gaming esports tournaments for organizations & universities](https://sanityesports.live/)
 
-```javascript
-- My Skills / Stack
-Languages: Javascript/Typescript, GoLang, CSharp, Python
-Frontend: React, Angular, Nextjs, Svelte, Remix & Astro
-Backend: Nodejs, Express, Django, Flask & DotNet
-App Dev: React Native & Expo
-
-- Tools / Technologies: Docker, Figma, Storybook, Mongodb Atlas, Upstash, Tunnel
-- Hosting - Supabase, DigitalOcean, Vercel, Azure, AWS, Firebase, Planetscale
-```
-
-## Projects 🎯
-- 🧳 [Delemate](https://delemate.com) an app for travellers to earn during their travels built-in ``react-native`` and ``expo``
-- 🕹️ [Sanity Esports](https://sanityesport.live) led teams to build a tournament management platform using ``nextjs``
-- 🧑🏽‍💻 [GSSOC](https://github.com/GSSOC) mentored & code reviewed over 100+ pull requests & issues in primarily ``python`` & ``javascript`` repos
-- 🔐 [DataCrypt](https://dcrypt.vercel.app/) cryptography library / web platform (30+ algorithms) using ``MERN``
-- 🛰️ [Astronomy Made Easy](https://astronomymadeeasy.vercel.app/) an wiki & community for astronomy enthusiasts using ``astro``
-
+<br>
 <details>
-<summary>Stats 📈</summary>
+<summary>stats</summary>
 
   
 | Overview | Card |
