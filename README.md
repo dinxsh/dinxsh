@@ -4,9 +4,9 @@ building ~hexastreams.com, navigating open-source & freelancing 😸
 
 
 > projects 
-> - [monetize travels on the go with delemate.com](https://delemate.com) 
-> - [a fitness, meal planning/logging & workout routines app](https://github.com/dinxsh/aarogya) 
-> - [hosting gaming esports tournaments for organizations & universities](https://sanityesports.live/)
+> - [monetize travels on the go](https://delemate.com) 
+> - [an app for fitness, meal planning & workouts](https://github.com/dinxsh/aarogya)
+> - [hosting gaming tournaments for organizations made easy](https://sanityesports.live/)
 
 <br>
 <details>
