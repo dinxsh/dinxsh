@@ -1,16 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
  
-generalist full stack dev, writing technical blogs & experimenting with saas 😸
+generalist full stack dev, writing technical blogs & building beautiful products 😸
 
 
-> projects 
-> - [monetize travels on the go](https://delemate.com) 
-> - [ultimate health & nutrition app](https://github.com/dinxsh/aarogya)
-> - [hosting gaming tournaments made easy](https://sanityesports.live/)
+projects 
+> [send parcels seamlessly](https://delemate.com) <br>
+> [host & join gaming tournaments](https://sanityesports.live/) <br>
+> [health, workouts & nutrition tracker app](https://github.com/dinxsh/aarogya) <br>
+> [centralized achievement recognition platform](https://ambar.gg/) 
 
 <br>
 <details>
-<summary>stats</summary>
+<summary>recent activity</summary>
 
   
 | Overview | Card |
@@ -20,4 +21,4 @@ generalist full stack dev, writing technical blogs & experimenting with saas �
 
 </details>
 
-<sub>most active on [Discord](https://discord.com/users/989106479699210310) or [X/Twitter](https://x.com/dineshcodes)</sub>
+<sub>most active on [Discord](https://t.co/QPthpsZ1Qu) or [X/Twitter](https://x.com/dineshcodes)</sub>
