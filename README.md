@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
  
-generalist full stack, writing & experimenting building saas 😸
+generalist full stack dev, writing technical blogs & experimenting with saas 😸
 
 
 > projects 
