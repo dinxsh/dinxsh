@@ -4,10 +4,10 @@ generalist full stack dev, writing technical blogs & building beautiful products
 
 
 projects 
-> [send parcels seamlessly](https://delemate.com) <br>
-> [host & join gaming tournaments](https://sanityesports.live/) <br>
-> [health, workouts & nutrition tracker app](https://github.com/dinxsh/aarogya) <br>
-> [centralized achievement recognition platform](https://ambar.gg/) 
+- [send parcels seamlessly](https://delemate.com)
+- [host & join gaming tournaments](https://sanityesports.live/)
+- [health, workouts & nutrition tracker app](https://github.com/dinxsh/aarogya)
+- [centralized achievement recognition platform](https://ambar.gg/) 
 
 <br>
 <details>
