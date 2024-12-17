@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
  
-generalist full stack dev, writing technical blogs & building beautiful products 😸
-
+dev & writing for @zerops, operating 43labs.xyz & building a tech community @codrion
 
 projects 
 - [send parcels seamlessly](https://delemate.com)
