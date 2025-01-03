@@ -2,11 +2,11 @@
  
 dev & writing for [zerops](https://zerops.io/), [freelancing](https://43labs.xyz/) & building a [tech community](https://discord.gg/64cSnfsF)
 
-projects 
-- [host/join tournaments](https://sanityesports.live/)
-- [cross-platform shipping app](https://delemate.com)
-- [health, workouts & nutrition tracker app](https://github.com/dinxsh/aarogya)
-- [centralized achievement recognition platform](https://ambar.gg/)
+ventures
+- [tournament management platform](https://github.com/dinxsh/sanity)
+- [real-time courier shipping app](https://delemate.com)
+- [fitness, workouts & dieting app](https://github.com/dinxsh/aarogya)
+- [centralized credibility platform](https://ambar.gg/)
 
 <br>
 <details>
