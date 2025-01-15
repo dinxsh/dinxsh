@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
  
 ventures
-- [courier app](https://delemate.com)
+- [revolutionizing courier](https://delemate.com)
 - [centralized credibility platform](https://ambar.gg/)
 - [tournament management platform](https://github.com/dinxsh/sanity)
 
