@@ -2,8 +2,8 @@
  
 ventures
 - [revolutionizing courier](https://delemate.com)
-- [managing tournaments with ease](https://github.com/dinxsh/sanity)
 - [decentralized credibility platform](https://ambar.gg/)
+- [managing tournaments with ease](https://github.com/dinxsh/sanity)
 
 <br>
 <details>
