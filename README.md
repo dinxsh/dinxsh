@@ -5,9 +5,9 @@ Developer at [Zerops](https://zerops.io), working on cloud tools. Co-Founder/Hac
 <br>
 
 Also Shipped
-- [Shipments App](https://delemate.com)
-- [Freelancing Platform](https://holdxpay.com/)
-- [Decentralized Credibility System](https://ambar.gg/)
+- [Delemate ~ Shipments App](https://delemate.com)
+- [HoldxPay ~ Freelancing Platform](https://holdxpay.com/)
+- [Ambar ~ Decentralized Credibility System](https://ambar.gg/)
 <br>
 <details>
 <summary>recent activity</summary>
