@@ -5,9 +5,9 @@ Co-Founder/Indie Hacker building [toornify.com](https://toornify.com) + 2
 <br>
 
 Also Shipped
-- [delemate.com - shipments mobile app](https://delemate.com)
-- [ambar.gg - decentralized credibility system](https://ambar.gg/)
-- [holdxpay.com - escrow freelancing platform](https://holdxpay.com/)
+- [Delemate.com - Shipments Mobile App](https://delemate.com)
+- [Ambar.gg - Decentralized Credibility System](https://ambar.gg/)
+- [Holdxpay.com - Escrow Freelancing Platform](https://holdxpay.com/)
 <br>
 <details>
 <summary>recent activity</summary>
