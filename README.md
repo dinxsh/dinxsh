@@ -1,14 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
 
-Co-Founder/Indie Hacker building [toornify.com](https://toornify.com) + 2
+Co-Founder & Indie Hacker building [Toornify](https://toornify.com) ⟶ Exploring Web3 & AI Agents 🔨  
+
+Love coding, shipping products, & solving real-world problems  
 
 <br>
 
-Also Shipped
-- [Delemate.com - Shipments Mobile App](https://delemate.com)
-- [Ambar.gg - Decentralized Credibility System](https://ambar.gg/)
-- [Holdxpay.com - Escrow Freelancing Platform](https://holdxpay.com/)
+**Also Shipped:**  
+- [HoldXPay](https://holdxpay.com/) - Escrow-based gigs platform
+- [Ambar](https://ambar.gg) - Decentralized credibility system 
+- [HighFI](https://dorahacks.io/buidl/22115) - Gamified fitness app to earn crypto
+- [Delemate](https://delemate.com) - Cross-platform app to send shipments  
+
 <br>
+
 <details>
 <summary>recent activity</summary>
 
