@@ -6,7 +6,7 @@ Love coding, shipping products, & solving real-world problems
 
 <br>
 
-**Also Shipped:**  
+**Also Shipped**  
 - [HoldXPay](https://holdxpay.com/) - Escrow-based gigs platform
 - [Ambar](https://ambar.gg) - Decentralized credibility system 
 - [HighFI](https://dorahacks.io/buidl/22115) - Gamified fitness app to earn crypto
