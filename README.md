@@ -7,10 +7,10 @@ Exploring Crypto & AI Agents, Love shipping products 🔨
 <br>
 
 **Also Shipped**  
-- [HoldXPay](https://holdxpay.com/), Escrow-based Gigs 
-- [HighFI](https://dorahacks.io/buidl/22115), Gamified Fitness to Earn Crypto
-- [Delemate](https://delemate.com), Send Shipments Across India  
-- [Ambar](https://ambar.gg), Decentralized Credibility System 
+- [Escrow-based Gigs App](https://holdxpay.com/)
+- [Sending Shipments Across India](https://delemate.com)
+- [Earning Crypto Through Fitness Challenges](https://dorahacks.io/buidl/22115)
+- [Decentralized Credibility Platform for Communities](https://ambar.gg)
 
 <br>
 
