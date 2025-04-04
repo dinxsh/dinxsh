@@ -17,9 +17,9 @@ Previously
 <summary>recent activity</summary>
 
   
-| Overview | Card |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Achievements](assets/metrics.plugin.achievements.svg) |
+| Overview |
+|:--------:|
+| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) |
 
 
 </details>
