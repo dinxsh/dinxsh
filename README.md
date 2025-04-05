@@ -2,8 +2,6 @@
 
 Building cool products, exploring crypto & AI agents 
 
-Writing a lot of Typescript, Python, GoLang, sometimes Rust
-
 <br>
 
 Previously
