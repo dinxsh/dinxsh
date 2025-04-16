@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
 
-Building cool products, exploring crypto & AI agents 
+building [toornify.com](https://www.toornify.com/), exploring crypto & AI agents
 
 <br>
 
-Previously
-- Delemate.com, shipments app 
-- Holdxpay.com, escrow based gigs
-- Znotes.org, edtech community bots 
+previously
+- delemate.com, pan-india shipments app 
+- holdxpay.com, escrow based gigs platform
+- znotes.org, moderation systems for bots 
   
 <br>
 
