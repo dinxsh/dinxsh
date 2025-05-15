@@ -8,8 +8,6 @@ previously
 - [delemate.com](https://delemate.com), logistics & shipments app 
 - [holdxpay.com](https://holdxpay.com), escrow-powered gig platform 
 - [zerops.io](https://zerops.io), SDKs & devtools for cloud-native apps 
-- [impause.com](https://impause.com), personal finance tool for budgeting 
-- [bharattenders.co](https://bharattenders.co), emarketplace platform for tenders 
 - [znotes.org](https://znotes.org), moderation systems for discord community
   
 <br>
