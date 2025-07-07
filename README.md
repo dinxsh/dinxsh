@@ -2,7 +2,7 @@
 
 👋 Greetings
 
-20yo technical co-founder trying non-technical things sometimes
+20yo technical founder trying non-technical things sometimes
 <br>
 
 previously
