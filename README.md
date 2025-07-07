@@ -2,14 +2,9 @@
 
 👋 Greetings
 
-20yo technical founder trying non-technical things sometimes
-<br>
-
-previously
-- [delemate](https://delemate.com), shipments app 
-- [znotes](https://znotes.org), tooling for discords
-- [holdxpay](https://holdxpay.com), freelancing platform 
-- [zerops](https://zerops.io), SDKs for cloud-native apps 
+20yo building fullstack apps for early-stage startups
+- prev: zerops, delemate, znotes
+- open for work
   
 <br>
 
