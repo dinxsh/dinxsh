@@ -2,10 +2,10 @@
 
 👋 Greetings
 
-20yo building fullstack apps for early-stage startups
-- prev: zerops, delemate, znotes
-- open for work
-  
+20yo technical founder trying non-technical things
+- built products for 50k+ users
+- accelerating [muleblocks](@muleblocks)
+
 <br>
 
 <details>
