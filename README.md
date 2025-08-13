@@ -3,7 +3,7 @@
 👋 Greetings
 
 20yo technical founder trying non-technical things
-- built products for 80k+ users
+- built products for 100k+ users
 - accelerating [muleblocks](@muleblocks)
 
 <br>
