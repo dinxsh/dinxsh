@@ -2,7 +2,7 @@
 
 👋 Greetings
 
-20yo founder growth hacking vibecoded products for 100k+ users
+20yo founder growing products for 100k+ users
 
 <br>
 
