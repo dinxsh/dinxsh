@@ -2,8 +2,7 @@
 
 👋 Greetings
 
-20yo technical founder trying non-technical things
-- building products for 100k+ users
+20yo founder growth hacking vibecoded products for 100k+ users
 
 <br>
 
