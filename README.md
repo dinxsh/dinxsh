@@ -2,7 +2,7 @@
 
 👋 Greetings
 
-20yo founder growing products for 100k+ users
+indie hacker building for 100k+ users
 
 <br>
 
