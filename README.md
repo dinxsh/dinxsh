@@ -2,7 +2,7 @@
 
 👋 Greetings
 
-indie hacker building products for 100k+ users
+Indie hacker building products for 100k+ users
 
 <br>
 
