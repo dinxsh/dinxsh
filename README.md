@@ -1,4 +1,4 @@
-### Indie hacker building on-chain products for 1M+ users
+### Indie hacker building products for 1M+ users
 ![](https://komarev.com/ghpvc/?username=dinxsh) [![wakatime](https://wakatime.com/badge/user/018cddd8-b17b-4e5f-a792-bed4da250ea7.svg)](https://wakatime.com/@018cddd8-b17b-4e5f-a792-bed4da250ea7)
 
 ### work
