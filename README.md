@@ -11,7 +11,7 @@
 - [ethereum → stacks USDC bridge for seamless transfers](https://github.com/dinxsh/usdcx-hub)
 - [solana → zcash shielded bridge for SOL/USDC to ZEC with relayers](https://github.com/dinxsh/zwap)
 - [merkle-verified file storage with cryptographic proof for downloads](https://github.com/dinxsh/MerkSeal)
-- [AI advertising agents using x402 micropayments for autonomous ad placement](https://github.com/dinxsh/adkit)
+- [AI ad agents using x402 micropayments for autonomous ad placement](https://github.com/dinxsh/adkit)
 
 
 <details>
