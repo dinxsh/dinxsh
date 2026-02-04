@@ -9,9 +9,9 @@
 **Projects**  
 - [USDCx Hub](https://github.com/dinxsh/usdcx-hub) - ETH → Stacks USDC bridge  
 - [Adkit](https://github.com/dinxsh/adkit) - AI ad agents w/ x402 micropayments  
-- [Zwap](https://github.com/dinxsh/zwap) - Solana → Zcash shielded bridge (SOL/USDC → ZEC)  
 - [PolyShark](https://github.com/dinxsh/PolyShark) - Polymarket arbitrage agent w/ risk limits  
 - [MerkSeal](https://github.com/dinxsh/MerkSeal) - Merkle-verified file storage w/ crypto proofs  
+- [Zwap](https://github.com/dinxsh/zwap) - Solana → Zcash shielded bridge (SOL/USDC → ZEC)  
 
 <details>
 <summary>recent activity</summary>
